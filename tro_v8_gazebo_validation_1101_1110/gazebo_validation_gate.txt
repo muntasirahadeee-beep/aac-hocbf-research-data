@@ -1,0 +1,4 @@
+complete=True
+reproduction_gate=True
+safety_gate=False
+conservative_center_separation_m=3.0

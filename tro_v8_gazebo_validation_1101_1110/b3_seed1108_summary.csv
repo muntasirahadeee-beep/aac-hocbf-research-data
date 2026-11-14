@@ -1,0 +1,2 @@
+validation_level,method,random_seed,uav1_arrival_s,uav2_arrival_s,uav3_arrival_s,arrival_difference_s,all_arrived,synchronization_success,mean_path_length_m,mission_completion_s,release_time_s,replan_count,deadline_extension_s,maximum_message_age_s,blackout_experienced,minimum_inter_uav_separation_m,mean_control_effort_integral,maximum_speed_mps,maximum_acceleration_mps2,simulation_end_time_s
+kinematic_gazebo_reproduction,b3,1108,,,,,0,0,96.62957238053582,,,2,46.60973270707119,4.300000000000001,1,1.331446066866693,11.58958225585412,2.9438972842987603,1.5000000000000002,54.0

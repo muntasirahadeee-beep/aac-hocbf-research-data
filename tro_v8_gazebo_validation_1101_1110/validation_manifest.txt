@@ -1,0 +1,13 @@
+validation_level=kinematic_gazebo_reproduction
+simulator=Gazebo Classic 11
+ros_distro=Humble
+methods=b1,b2,b3,proposed_v8
+seed_start=1101
+seed_end=1110
+delay_s=1.20
+jitter_s=0.20
+packet_loss=0.20
+blackout_start_s=16.0
+blackout_end_s=19.0
+required_conservative_center_separation_m=3.0
+started=2026-07-17T20:41:43+06:00

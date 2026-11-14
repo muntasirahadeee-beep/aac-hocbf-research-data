@@ -1,0 +1,4 @@
+# Dependencies for the independently written demonstration only (Python >=3.10)
+numpy>=1.24,<3
+scipy>=1.10,<2
+# Optional alternate backend: pip install 'cvxpy>=1.4,<2' 'ecos>=2,<3'

@@ -1,0 +1,4 @@
+baseline,common_seed_count,conditional_atd_improvement_s,conditional_atd_ci95_lower_s,conditional_atd_ci95_upper_s,jointly_successful_atd_pairs,sync_rate_difference_fraction,sync_rate_ci95_lower_fraction,sync_rate_ci95_upper_fraction,paired_sync_count
+b1,10,nan,nan,nan,0,1.0,1.0,1.0,10
+b2,10,2.180000000000002,1.930000000000002,2.4200000000000017,10,1.0,1.0,1.0,10
+b3,10,-0.15000000000000036,-0.3500000000000014,0.05000000000000071,4,0.6,0.3,0.9,10

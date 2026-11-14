@@ -1,0 +1,2 @@
+# Original archival audit/checksum scripts use only Python standard library (>=3.9).
+# Additional reference demonstration dependencies are in requirements-reference.txt.
