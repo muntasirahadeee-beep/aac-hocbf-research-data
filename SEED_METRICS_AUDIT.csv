@@ -1,0 +1,33 @@
+study,group,n,stored_flag_success,ATD_threshold_success,flag_mismatch_rows,original_file
+Ablations (Table 8),full_v8_cbf,100,100,100,0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_braking_constraint,100,100,100,0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_hocbf,100,100,100,0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_robust_hold,100,0,0,0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,100,56,24,32,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_uncertainty_envelope,100,100,100,0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Kinematic baseline (Table 7),b1,10,0,0,0,data/tro_v8_gazebo_validation_1101_1110/gazebo_validation_seed_metrics.csv
+Kinematic baseline (Table 7),b2,10,0,0,0,data/tro_v8_gazebo_validation_1101_1110/gazebo_validation_seed_metrics.csv
+Kinematic baseline (Table 7),b3,10,4,4,0,data/tro_v8_gazebo_validation_1101_1110/gazebo_validation_seed_metrics.csv
+Kinematic baseline (Table 7),proposed_v8,10,10,9,1,data/tro_v8_gazebo_validation_1101_1110/gazebo_validation_seed_metrics.csv
+Kinematic safety (Table 7),b1,10,0,0,0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_seed_metrics.csv
+Kinematic safety (Table 7),b2,10,0,0,0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_seed_metrics.csv
+Kinematic safety (Table 7),b3,10,4,4,0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_seed_metrics.csv
+Kinematic safety (Table 7),proposed_v8,10,10,9,1,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_seed_metrics.csv
+Kinematic safety (Table 7),proposed_v8_cbf,10,10,10,0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_seed_metrics.csv
+Network (Table 9),extreme,100,3,3,0,data/tro_v8_network_severity/network_severity_seed_metrics.csv
+Network (Table 9),ideal,100,100,100,0,data/tro_v8_network_severity/network_severity_seed_metrics.csv
+Network (Table 9),mild,100,100,100,0,data/tro_v8_network_severity/network_severity_seed_metrics.csv
+Network (Table 9),nominal,100,100,100,0,data/tro_v8_network_severity/network_severity_seed_metrics.csv
+Network (Table 9),severe,100,100,100,0,data/tro_v8_network_severity/network_severity_seed_metrics.csv
+Scalability (Table 10),10|proposed_v8,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),10|proposed_v8_cbf,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),3|proposed_v8,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),3|proposed_v8_cbf,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),5|proposed_v8,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),5|proposed_v8_cbf,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),8|proposed_v8,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Scalability (Table 10),8|proposed_v8_cbf,100,100,100,0,data/tro_v8_scalability_3_5_8_10/scalability_seed_metrics.csv
+Temporal (Table 6),b1,100,2,0,2,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b2,100,0,0,0,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b3,100,42,39,3,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),proposed_v8,100,100,96,4,data/tro_v8_event_release/v8_independent_seed_metrics.csv

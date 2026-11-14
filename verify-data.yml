@@ -1,0 +1,22 @@
+name: Verify archived data and reference code
+on:
+  push:
+  pull_request:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify original archive file checksums
+        run: python3 analysis/verify_checksums.py
+      - name: Run audit of known discrepancies (informational)
+        run: python3 analysis/audit_all_seed_metrics.py
+      - name: Install dependencies for new reference example
+        run: python3 -m pip install -r requirements-reference.txt
+      - name: Test new reference code (NOT the original simulator)
+        run: python3 -m unittest discover -s tests -v
+      - name: Run small illustrative numerical example
+        run: python3 -m reference_controller.demo --output reference_runs --duration 4

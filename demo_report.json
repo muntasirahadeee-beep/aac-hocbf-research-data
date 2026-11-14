@@ -1,0 +1,11 @@
+{
+  "kind": "illustrative independent reference run, NOT original manuscript experiment",
+  "backend": "scipy_slsqp",
+  "duration_s": 4.0,
+  "steps": 40,
+  "release_time_s": 0.0,
+  "min_sampled_separation_m": 3.92652895982632,
+  "solver_failures": 0,
+  "active_steps": 24,
+  "safety_guarantee": "none; sampled numerical illustration only"
+}

@@ -1,0 +1,56 @@
+Building age-conditioned prediction envelope...
+  calibrated 20/100 seeds
+  calibrated 40/100 seeds
+  calibrated 60/100 seeds
+  calibrated 80/100 seeds
+  calibrated 100/100 seeds
+
+RUNNING INDEPENDENT V8 TEST SEEDS
+====================================================================================================
+Seed 1001 | proposed ATD=0.150 s | sync=True
+Seed 1010 | proposed ATD=0.350 s | sync=True
+Seed 1020 | proposed ATD=0.250 s | sync=True
+Seed 1030 | proposed ATD=0.200 s | sync=True
+Seed 1040 | proposed ATD=0.350 s | sync=True
+Seed 1050 | proposed ATD=0.200 s | sync=True
+Seed 1060 | proposed ATD=0.250 s | sync=True
+Seed 1070 | proposed ATD=0.250 s | sync=True
+Seed 1080 | proposed ATD=0.200 s | sync=True
+Seed 1090 | proposed ATD=0.300 s | sync=True
+Seed 1100 | proposed ATD=0.250 s | sync=True
+====================================================================================================
+
+ROBUST EVENT-RELEASE V8 INDEPENDENT SUMMARY
+=======================================================================================================================================================
+Method                Arrival %    Sync %    ATD Mean    ATD Std    ATD P95    ATD Max    Mean Path   Completion    Release
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+B1 DELAYED                 22.0       2.0       5.384      2.761      9.773     10.500      113.681       48.739        N/A
+B2 CV                     100.0       0.0       3.211      0.409      3.800      4.450      109.585       47.025        N/A
+B3 CA                      48.0      42.0       0.385      0.494      1.550      2.050      104.423       48.955        N/A
+PROPOSED V8               100.0     100.0       0.300      0.117      0.500      0.800      112.591       49.880     37.004
+=======================================================================================================================================================
+
+V8 PAIRED ATD IMPROVEMENT
+================================================================================================
+B1 DELAYED          | improvement=5.102 s | 95% CI=[3.948, 6.186] | paired seeds=22
+B2 CV               | improvement=2.911 s | 95% CI=[2.831, 2.996] | paired seeds=100
+B3 CA               | improvement=0.085 s | 95% CI=[-0.034, 0.217] | paired seeds=48
+================================================================================================
+
+V8 ALGORITHMIC VALIDATION GATE
+================================================================================================
+Calibration seeds                : 100
+Independent test seeds           : 100
+Proposed arrival rate            : 100.0%
+Proposed synchronization success : 100.0%
+Proposed 95th-percentile ATD      : 0.500 s
+Positive paired CIs vs B2 and B3 : False
+Algorithmic gate passed          : False
+------------------------------------------------------------------------------------------------
+A pass means the algorithm is ready for ROS/Gazebo reproduction. It is not yet sufficient for an IEEE T-RO manuscript.
+================================================================================================
+
+Envelope CSV : /home/muntasir-ahad/eta_swarm_ws/results/tro_v8_event_release/v8_age_conditioned_envelope.csv
+Seed metrics : /home/muntasir-ahad/eta_swarm_ws/results/tro_v8_event_release/v8_independent_seed_metrics.csv
+Method table : /home/muntasir-ahad/eta_swarm_ws/results/tro_v8_event_release/v8_independent_method_summary.csv
+Paired CIs   : /home/muntasir-ahad/eta_swarm_ws/results/tro_v8_event_release/v8_paired_bootstrap_ci.csv

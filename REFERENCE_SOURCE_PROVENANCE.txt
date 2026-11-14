@@ -1,0 +1,1 @@
+Reference_controller files were independently authored for this final archival package in November 2026 after the reported manuscript experiments. They are not the original experiment-generating scripts; any numerical outputs are demonstration data only. Original source archive consists of selected CSV/TXT records with individual SHA-256 hashes stored in SOURCE_FILES_SHA256.csv.

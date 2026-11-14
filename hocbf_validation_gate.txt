@@ -1,0 +1,5 @@
+complete=True
+reproduction_gate=True
+safety_gate=True
+dynamic_limit_gate=True
+safety_distance_m=3.0

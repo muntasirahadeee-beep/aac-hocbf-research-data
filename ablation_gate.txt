@@ -1,0 +1,13 @@
+TRO V8-CBF FIVE-UAV COMPONENT ABLATION GATE
+========================================================================================
+Monte Carlo runs complete                    : True
+Full V8-CBF arrival/sync/safety all 100%     : True
+Uncertainty envelope coverage contribution   : True
+Robust hold/release-readiness contribution   : True
+Shared synchronization-phase contribution    : True
+Braking-constraint contribution              : True
+HOCBF safety contribution                    : True
+Speed/acceleration/blackout protocol pass    : True
+----------------------------------------------------------------------------------------
+Final ablation gate passed                   : True
+========================================================================================

@@ -1,0 +1,11 @@
+TRO V8-CBF 3/5/8/10-UAV SCALABILITY GATE
+========================================================================================
+Monte Carlo runs complete                 : True
+V8-CBF arrival/sync/safety all 100%       : True
+V8-CBF ATD P95 <= 0.50 s                  : True
+Speed/acceleration/blackout protocol pass : True
+Serial P95 control step <= 5 ms           : True
+CBF improves safety for every swarm size  : True
+----------------------------------------------------------------------------------------
+Final scalability gate passed             : True
+========================================================================================

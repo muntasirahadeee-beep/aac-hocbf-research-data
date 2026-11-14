@@ -1,0 +1,44 @@
+study,group,seed,stored_sync_flag,computed_from_ATD,all_arrived,arrival_difference_s,original_file
+Temporal (Table 6),proposed_v8,1002,1,0,1,0.5500000000000043,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b3,1025,1,0,1,0.9500000000000028,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b1,1036,1,0,1,0.9500000000000028,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),proposed_v8,1042,1,0,1,0.7999999999999972,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),proposed_v8,1052,1,0,1,0.7000000000000028,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b3,1058,1,0,1,0.6999999999999957,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),proposed_v8,1059,1,0,1,0.5499999999999972,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b1,1080,1,0,1,0.75,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Temporal (Table 6),b3,1089,1,0,1,0.7999999999999972,data/tro_v8_event_release/v8_independent_seed_metrics.csv
+Kinematic baseline (Table 7),proposed_v8,1107,1,0,1,0.6000000000000014,data/tro_v8_gazebo_validation_1101_1110/gazebo_validation_seed_metrics.csv
+Kinematic safety (Table 7),proposed_v8,1107,1,0,1,0.6000000000000014,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21001,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21009,1,0,1,0.9000000000000057,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21013,1,0,1,0.75,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21015,1,0,1,0.6500000000000057,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21018,1,0,1,0.6500000000000057,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21019,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21023,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21027,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21033,1,0,1,0.8999999999999986,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21040,1,0,1,0.7999999999999972,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21042,1,0,1,0.6499999999999986,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21047,1,0,1,0.75,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21051,1,0,1,0.8999999999999986,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21058,1,0,1,0.75,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21064,1,0,1,0.6499999999999986,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21065,1,0,1,0.7999999999999972,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21067,1,0,1,0.8500000000000014,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21071,1,0,1,0.8500000000000014,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21074,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21075,1,0,1,0.75,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21078,1,0,1,0.6499999999999986,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21082,1,0,1,0.7999999999999972,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21083,1,0,1,0.6999999999999957,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21089,1,0,1,0.7000000000000028,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21091,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21092,1,0,1,0.8500000000000014,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21093,1,0,1,0.6000000000000014,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21094,1,0,1,0.75,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21095,1,0,1,1.0,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21096,1,0,1,0.75,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21097,1,0,1,0.7000000000000028,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv
+Ablations (Table 8),no_synchronized_phase,21100,1,0,1,0.6499999999999986,data/tro_v8_five_uav_ablation/ablation_seed_metrics.csv

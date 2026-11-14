@@ -1,0 +1,20 @@
+TRO V8-CBF FINAL FIVE-UAV ADVERSARIAL CROSSING GATE
+============================================================================================
+Bounded reverse-color crossing configured      : True
+All five UAVs reached assigned beacons        : True
+Synchronized arrival succeeded               : True
+Required 3.0 m separation maintained          : False
+4.2 m HOCBF design buffer applied             : False
+Speed and acceleration limits respected      : True
+HOCBF actively handled crossing conflict     : True
+--------------------------------------------------------------------------------------------
+Arrival-time difference (s)                  : 0.0
+Minimum inter-UAV separation (m)             : 2.978580858201511
+Required safety distance (m)                 : 3.0
+HOCBF design distance (m)                    : 3.2
+HOCBF activation fraction                    : 0.6977777777777778
+Maximum speed (m/s)                          : 3.0000000000000004
+Maximum acceleration (m/s^2)                 : 1.5000000000000002
+--------------------------------------------------------------------------------------------
+Final adversarial crossing gate passed       : False
+============================================================================================

@@ -1,0 +1,8 @@
+validation_level=kinematic_gazebo_hocbf_safety_reproduction
+method=proposed_v8_cbf
+seeds=1101-1110
+safety_distance_m=3.0
+cbf_position_gain=1.0
+cbf_velocity_gain=2.0
+projection_iterations=40
+started=2026-07-17T21:32:16+06:00

@@ -1,0 +1,221 @@
+table,method_or_variant,team_size,field,archived_value,source_file
+Table 6 - temporal benchmark,b1,,method,b1,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b1,,arrival_rate_percent,22.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b1,,sync_success_percent,2.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b1,,atd_mean_s,5.38409090909091,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b1,,atd_p95_s,9.7725,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b1,,atd_max_s,10.5,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b1,,completion_mean_s,48.73863636363637,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,method,b2,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,arrival_rate_percent,100.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,sync_success_percent,0.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,atd_mean_s,3.2110000000000007,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,atd_p95_s,3.7999999999999976,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,atd_max_s,4.450000000000003,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b2,,completion_mean_s,47.025499999999994,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,method,b3,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,arrival_rate_percent,48.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,sync_success_percent,42.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,atd_mean_s,0.38541666666666624,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,atd_p95_s,1.5499999999999972,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,atd_max_s,2.049999999999997,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,b3,,completion_mean_s,48.95520833333334,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,method,proposed_v8,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,arrival_rate_percent,100.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,sync_success_percent,100.0,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,atd_mean_s,0.30000000000000027,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,atd_p95_s,0.5,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,atd_max_s,0.7999999999999972,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 6 - temporal benchmark,proposed_v8,,completion_mean_s,49.88000000000001,data/tro_v8_event_release/v8_independent_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,method,b1,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,arrival_rate_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,sync_success_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,atd_p95_successful_s,nan,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,minimum_separation_m,2.0150176747543966,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,minimum_clearance_m,-0.9849823252456034,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,mean_filter_activation_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b1,,mean_completion_successful_s,nan,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,method,b2,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,arrival_rate_percent,100.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,sync_success_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,atd_p95_successful_s,3.065,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,minimum_separation_m,2.1049895179922697,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,minimum_clearance_m,-0.8950104820077303,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,mean_filter_activation_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b2,,mean_completion_successful_s,46.269999999999996,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,method,b3,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,arrival_rate_percent,40.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,sync_success_percent,40.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,atd_p95_successful_s,0.28500000000000403,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,minimum_separation_m,0.21083853935046867,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,minimum_clearance_m,-2.7891614606495314,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,mean_filter_activation_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,b3,,mean_completion_successful_s,50.95,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,method,proposed_v8,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,arrival_rate_percent,100.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,sync_success_percent,100.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,atd_p95_successful_s,0.5099999999999999,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,minimum_separation_m,1.5980341161069498,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,minimum_clearance_m,-1.4019658838930502,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,mean_filter_activation_percent,0.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8,,mean_completion_successful_s,50.23,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,method,proposed_v8_cbf,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,arrival_rate_percent,100.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,sync_success_percent,100.0,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,atd_p95_successful_s,0.2549999999999996,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,minimum_separation_m,3.3652041296073465,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,minimum_clearance_m,0.3652041296073465,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,mean_filter_activation_percent,8.738604141418582,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 7 - Gazebo HOCBF comparison,proposed_v8_cbf,,mean_completion_successful_s,50.209999999999994,data/tro_v8_gazebo_hocbf_1101_1110/hocbf_all_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,variant,full_v8_cbf,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,arrival_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,sync_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,safety_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,atd_p95_s,0.09999999999999432,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,minimum_separation_min_m,3.353745890611167,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,braking_violation_mean,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,full_v8_cbf,,completion_mean_s,55.6165,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,variant,no_uncertainty_envelope,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,arrival_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,sync_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,safety_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,atd_p95_s,0.15250000000000505,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,minimum_separation_min_m,3.3539731715137053,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,braking_violation_mean,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_uncertainty_envelope,,completion_mean_s,50.518,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,variant,no_robust_hold,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,arrival_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,sync_rate_percent,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,safety_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,atd_p95_s,6.150000000000006,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,minimum_separation_min_m,3.354712405308282,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,braking_violation_mean,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_robust_hold,,completion_mean_s,43.522999999999996,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,variant,no_synchronized_phase,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,arrival_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,sync_rate_percent,56.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,safety_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,atd_p95_s,2.2575,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,minimum_separation_min_m,3.353745890611167,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,braking_violation_mean,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_synchronized_phase,,completion_mean_s,58.988000000000014,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,variant,no_braking_constraint,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,arrival_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,sync_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,safety_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,atd_p95_s,0.14999999999999894,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,minimum_separation_min_m,3.372810431695031,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,braking_violation_mean,2609.5200673569143,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_braking_constraint,,completion_mean_s,46.07899999999999,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,variant,no_hocbf,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,arrival_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,sync_rate_percent,100.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,safety_rate_percent,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,atd_p95_s,0.05000000000000426,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,minimum_separation_min_m,1.3448429313783632,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,braking_violation_mean,0.0,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 8 - ablations,no_hocbf,,completion_mean_s,54.60750000000001,data/tro_v8_five_uav_ablation/ablation_method_summary.csv
+Table 9 - communication severity,ideal,,condition,ideal,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,arrival_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,sync_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,safety_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,atd_p95_s,0.05000000000000426,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,maximum_message_age_p95_s,0.10000000000000142,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,completion_p95_s,50.85000000000001,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,ideal,,minimum_separation_min_m,3.355958945853063,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,condition,mild,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,arrival_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,sync_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,safety_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,atd_p95_s,0.05000000000000426,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,maximum_message_age_p95_s,2.4025000000000016,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,completion_p95_s,55.5025,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,mild,,minimum_separation_min_m,3.354775708889662,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,condition,nominal,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,arrival_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,sync_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,safety_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,atd_p95_s,0.05000000000000426,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,maximum_message_age_p95_s,4.552500000000002,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,completion_p95_s,56.45,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,nominal,,minimum_separation_min_m,3.353600243738261,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,condition,severe,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,arrival_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,sync_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,safety_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,atd_p95_s,0.10000000000000142,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,maximum_message_age_p95_s,7.255,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,completion_p95_s,61.85,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,severe,,minimum_separation_min_m,3.3529390325693176,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,condition,extreme,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,arrival_rate_percent,3.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,sync_rate_percent,3.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,safety_rate_percent,100.0,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,atd_p95_s,0.1900000000000034,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,maximum_message_age_p95_s,10.902500000000002,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,completion_p95_s,83.05000000000001,data/tro_v8_network_severity/network_severity_summary.csv
+Table 9 - communication severity,extreme,,minimum_separation_min_m,3.3518663649846663,data/tro_v8_network_severity/network_severity_summary.csv
+Table 10 - scaling,proposed_v8,3,uav_count,3,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,method,proposed_v8,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,safety_rate_percent,0.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,atd_p95_s,0.05000000000000426,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,minimum_separation_p05_m,0.6191626817100729,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,3,serial_p95_control_step_ms,0.14379441578057595,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,uav_count,3,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,method,proposed_v8_cbf,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,safety_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,atd_p95_s,0.05250000000000363,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,minimum_separation_p05_m,3.309628556114099,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,3,serial_p95_control_step_ms,0.22824628103990105,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,uav_count,5,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,method,proposed_v8,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,safety_rate_percent,0.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,atd_p95_s,0.05000000000000426,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,minimum_separation_p05_m,1.3473397568176406,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,5,serial_p95_control_step_ms,0.21287400042638183,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,uav_count,5,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,method,proposed_v8_cbf,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,safety_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,atd_p95_s,0.09999999999999432,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,minimum_separation_p05_m,3.353833136799733,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,5,serial_p95_control_step_ms,0.45366790494881565,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,uav_count,8,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,method,proposed_v8,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,safety_rate_percent,0.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,atd_p95_s,0.14999999999999858,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,minimum_separation_p05_m,1.810768685605061,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,8,serial_p95_control_step_ms,0.333661557524465,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,uav_count,8,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,method,proposed_v8_cbf,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,safety_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,atd_p95_s,0.14999999999999858,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,minimum_separation_p05_m,3.6179430952208183,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,8,serial_p95_control_step_ms,0.943246660172008,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,uav_count,10,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,method,proposed_v8,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,safety_rate_percent,0.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,atd_p95_s,0.10000000000000142,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,minimum_separation_p05_m,1.5508284801423307,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8,10,serial_p95_control_step_ms,0.4347188079555053,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,uav_count,10,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,method,proposed_v8_cbf,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,arrival_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,sync_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,safety_rate_percent,100.0,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,atd_p95_s,0.25,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,minimum_separation_p05_m,3.5939325198943926,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv
+Table 10 - scaling,proposed_v8_cbf,10,serial_p95_control_step_ms,1.4384834749216675,data/tro_v8_scalability_3_5_8_10/scalability_method_summary.csv

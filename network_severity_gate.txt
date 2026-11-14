@@ -1,0 +1,12 @@
+TRO V8-CBF FIVE-UAV COMMUNICATION-SEVERITY GATE
+========================================================================================
+Monte Carlo runs complete                    : True
+Ideal-to-severe arrival/sync/safety all 100% : True
+Ideal-to-severe ATD P95 <= 0.50 s            : True
+Speed and acceleration limits respected      : True
+Message age rises with communication severity: True
+Extreme-condition operational boundary found : True
+Extreme condition remains collision-safe     : True
+----------------------------------------------------------------------------------------
+Final communication-severity gate passed     : True
+========================================================================================
